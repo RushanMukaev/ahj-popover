@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2dwqcn2cpqde0e6x?svg=true)](https://ci.appveyor.com/project/RushanMukaev/ahj-dom)
